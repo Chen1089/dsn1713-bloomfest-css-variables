@@ -73,7 +73,7 @@ h1, h2, h3,
 }
 
 .hero-title {
-   font-size: var(--bs-info-rgb);
+   font-size: var(--bs-fs-hero);
 }
 
 .section {
